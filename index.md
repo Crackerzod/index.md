@@ -9,7 +9,7 @@
         <tr>
             <td><img src="images/de queen.jpg" alt="Da Queen"></td>
             <td><hi>Brooke Roberts</hi>
-                <p><em>I'm an aspiring web developer looking to imporve my craft and advance my career.</em></p></td>
+                <p><em>I'm an aspiring web developer looking to improve my craft and advance my career.</em></p></td>
         </tr>
     </table>
     <!--Linking pictures to show on the site-->
