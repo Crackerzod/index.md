@@ -7,7 +7,7 @@
     <!--This table puts the information directly next time your picture-->
     <table cellspacing="20">
         <tr>
-            <td><img src="C:\Users\BrookeTheBro\Desktop\Visual Studio\de queen.jpg" alt="Da Queen"></td>
+            <td><img src="images/de queen.jpg" alt="Da Queen"></td>
             <td><hi>Brooke Roberts</hi>
                 <p><em>I'm an aspiring web developer looking to imporve my craft and advance my career.</em></p></td>
         </tr>
